@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include "funcoes.h"
 
 int main() {
-    printf("Guilherme é homossex");
+    introducao();
     return 0;
 }
