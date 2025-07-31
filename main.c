@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Nalic0 é muito gay!!!");
+    printf("Guilherme é homossex");
     return 0;
 }
