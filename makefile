@@ -2,7 +2,7 @@
 EXEC = programa
 
 # Arquivos fonte
-SRC = main.c funcoes.c
+SRC = main.c funcoes.c structs.c
 
 # Arquivos objeto
 OBJ = $(SRC:.c=.o)
